@@ -1,13 +1,13 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Jamel Belgacem
 
-Welcome to my GitHub profile! I'm a passionate [Your Profession or Hobby], constantly exploring new technologies and building exciting projects.
+Welcome to my GitHub profile! I'm a passionate machine learning engineer, constantly exploring new technologies and building exciting projects.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Your Current Project or Area of Focus]
+- 🔭 I’m currently working on chatbot application
 - 🌱 I’m currently learning [Current Learning Focus, e.g., Machine Learning, Cloud Computing, etc.]
-- 💬 Ask me about [Your Expertise or Interests, e.g., Data Science, Web Development, etc.]
-- 📫 How to reach me: [Your Email or LinkedIn]
+- 💬 Ask me about Machine-learning / LLM / Shiny-R
+- 📫 How to reach me: [Mail](jamelbelgacem@hotmail.com) or [LinkedIn](https://www.linkedin.com/in/jamel-belgacem-289606a7/)
 - ⚡ Fun fact: [A Fun Fact About You]
 
 ## 🛠️ Languages and Tools
