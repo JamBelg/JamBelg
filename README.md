@@ -29,8 +29,8 @@ Here are some of the technologies I work with:
 
 ## 📚 Featured Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepo&theme=radical)](https://github.com/yourusername/yourrepo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepo&theme=radical)](https://github.com/yourusername/yourrepo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JamBelg&repo=Beth-project&theme=radical)](https://github.com/JamBelg/Beth-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JamBelg&repo=Beth-project&theme=radical)](https://github.com/JamBelg/Beth-project)
 
 ## 🌐 Connect with Me
 
