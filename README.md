@@ -1,14 +1,14 @@
 # Hi there! 👋 I'm Jamel Belgacem
 
-Welcome to my GitHub profile! I'm a passionate machine learning engineer, constantly exploring new technologies and building exciting projects.
+Welcome to my GitHub profile! I'm a passionate machine learning engineer, constantly exploring new technologies and collaborations for exciting projects.
 
 ## 🚀 About Me
 
+- 🌱 I have a bachelor degree on electrical engineering.
+- 🌱 I’m part-time following a CAS in adavanced machine learning at the [university of Bern](https://www.unibe.ch/continuing_education_programs/cas_advanced_machine_learning/index_eng.html)
 - 🔭 I’m currently working on chatbot application using RAG.
-- 🌱 I’m currently learning [Current Learning Focus, e.g., Machine Learning, Cloud Computing, etc.]
-- 💬 Ask me about Machine-learning / LLM / Shiny-R
+- 💬 Open to exciting project/collaboration in Machine-learning / LLM / Data vizualisation
 - 📫 How to reach me: [Mail](mailto:jamelbelgacem@hotmail.com) or [LinkedIn](https://www.linkedin.com/in/jamel-belgacem-289606a7/)
-- ⚡ Fun fact: [A Fun Fact About You]
 
 ## 🛠️ Languages and Tools
 
@@ -29,7 +29,7 @@ Here are some of the technologies I work with:
 
 ## 📚 Featured Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JamBelg&repo=Beth-project&theme=radical)](https://github.com/JamBelg/Beth-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JamBelg&repo=streamlit_earthquakeapp&theme=radical)](https://github.com/JamBelg/streamlit_earthquakeapp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JamBelg&repo=Beth-project&theme=radical)](https://github.com/JamBelg/Beth-project)
 
 ## 🌐 Connect with Me
