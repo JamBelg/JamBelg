@@ -34,7 +34,7 @@ Here are some of the technologies I work with:
 
 ## 🌐 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/jamel-belgacem-289606a7/))
+- [LinkedIn](https://www.linkedin.com/in/jamel-belgacem-289606a7/)
 - [Mail](mailto:jamelbelgacem@hotmail.com)
 
 ---
