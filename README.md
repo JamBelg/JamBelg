@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate machine learning engineer, consta
 - 🔭 I’m currently working on chatbot application
 - 🌱 I’m currently learning [Current Learning Focus, e.g., Machine Learning, Cloud Computing, etc.]
 - 💬 Ask me about Machine-learning / LLM / Shiny-R
-- 📫 How to reach me: [Mail](jamelbelgacem@hotmail.com) or [LinkedIn](https://www.linkedin.com/in/jamel-belgacem-289606a7/)
+- 📫 How to reach me: [Mail](mailto:jamelbelgacem@hotmail.com) or [LinkedIn](https://www.linkedin.com/in/jamel-belgacem-289606a7/)
 - ⚡ Fun fact: [A Fun Fact About You]
 
 ## 🛠️ Languages and Tools
