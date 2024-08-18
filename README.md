@@ -22,7 +22,7 @@ Here are some of the technologies I work with:
 
 ## Applications
 
-- **[Earthquakes in Switzerland*](https://appearthquake-switzerland.streamlit.app/)*\
+- **[Earthquakes in Switzerland](https://appearthquake-switzerland.streamlit.app/)**\
   This application provides detailed analysis and visualization of recorded earthquakes in Switzerland. Discover insights into seismic activity and track historical earthquake data with interactive charts and maps.\
 
 
