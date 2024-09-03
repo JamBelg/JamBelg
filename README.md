@@ -26,7 +26,7 @@ Here are some of the technologies I work with:
   This application provides detailed analysis and visualization of recorded earthquakes in Switzerland. Discover insights into seismic activity and track historical earthquake data with interactive charts and maps.
 
 - **[Homogeneity testing](https://homogeneity.streamlit.app/)**\
-  This application provides detailed analysis and visualization of recorded earthquakes in Switzerland. Discover insights into seismic activity and track historical earthquake data with interactive charts and maps.
+  A Streamlit-based application for testing homogeneity across multiple variables using statistical methods.
 
 ## 📊 GitHub Stats
 
