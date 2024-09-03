@@ -39,6 +39,7 @@ Here are some of the technologies I work with:
 ## 📚 Featured Repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JamBelg&repo=streamlit_earthquakeapp&theme=radical)](https://github.com/JamBelg/streamlit_earthquakeapp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JamBelg&repo=Streamlit_homogeneity&theme=radical)](https://github.com/JamBelg/Streamlit_homogeneity)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JamBelg&repo=Beth-project&theme=radical)](https://github.com/JamBelg/Beth-project)
 
 ## 🌐 Connect with Me
