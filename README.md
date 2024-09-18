@@ -22,6 +22,10 @@ Here are some of the technologies I work with:
 
 ## Applications
 
+- **[PDF chatbot](https://chatbot-with-your-pdf.streamlit.app/)**\
+  This Streamlit application uses LangChain 🦜 and OpenAI 🤖 to read and summarize PDFs\
+  Users can interact with a chatbot and can translate the responses into multiple languages (🇬🇧 🇪🇸 🇫🇷 🇩🇪 🇸🇦).
+
 - **[Earthquakes in Switzerland](https://appearthquake-switzerland.streamlit.app/)**\
   This application provides detailed analysis and visualization of recorded earthquakes in Switzerland. Discover insights into seismic activity and track historical earthquake data with interactive charts and maps.
 
@@ -38,6 +42,7 @@ Here are some of the technologies I work with:
 
 ## 📚 Featured Repositories
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JamBelg&repo=PDF-chat&theme=radical)](https://github.com/JamBelg/PDF-chat)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JamBelg&repo=streamlit_earthquakeapp&theme=radical)](https://github.com/JamBelg/streamlit_earthquakeapp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JamBelg&repo=Streamlit_homogeneity&theme=radical)](https://github.com/JamBelg/Streamlit_homogeneity)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JamBelg&repo=Beth-project&theme=radical)](https://github.com/JamBelg/Beth-project)
