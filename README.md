@@ -22,7 +22,7 @@ Here are some of the technologies I work with:
 
 ## Applications
 
-- **[PDF chatbot](https://chatbot-with-your-pdf.streamlit.app/)**\
+- ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) **[PDF chatbot](https://chatbot-with-your-pdf.streamlit.app/)**\
   This Streamlit application uses LangChain 🦜 and OpenAI 🤖 to read and summarize PDFs\
   Users can interact with a chatbot and can translate the responses into multiple languages (🇬🇧 🇪🇸 🇫🇷 🇩🇪 🇸🇦).
 
