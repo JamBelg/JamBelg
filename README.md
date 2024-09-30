@@ -26,10 +26,10 @@ Here are some of the technologies I work with:
   This Streamlit application uses LangChain 🦜 and OpenAI 🤖 to read and summarize PDFs\
   Users can interact with a chatbot and can translate the responses into multiple languages (🇬🇧 🇪🇸 🇫🇷 🇩🇪 🇸🇦).
 
-- **[Earthquakes in Switzerland](https://appearthquake-switzerland.streamlit.app/)**\
+- ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) **[Earthquakes in Switzerland](https://appearthquake-switzerland.streamlit.app/)**\
   This application provides detailed analysis and visualization of recorded earthquakes in Switzerland. Discover insights into seismic activity and track historical earthquake data with interactive charts and maps.
 
-- **[Homogeneity testing](https://homogeneity.streamlit.app/)**\
+- ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) **[Homogeneity testing](https://homogeneity.streamlit.app/)**\
   A Streamlit-based application for testing homogeneity across multiple variables using statistical methods.
 
 ## 📊 GitHub Stats
