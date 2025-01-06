@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate machine learning engineer, consta
 ## 🚀 About Me
 
 - 🌱 I have a bachelor degree in electrical engineering @ [HES-SO](https://www.hes-so.ch/en/homepage)
-- 🌱 I’m part-time following a CAS in adavanced machine learning @ [university of Bern](https://www.unibe.ch/continuing_education_programs/cas_advanced_machine_learning/index_eng.html)
+- 🌱 Obtained a CAS in adavanced machine learning @ [university of Bern](https://www.unibe.ch/continuing_education_programs/cas_advanced_machine_learning/index_eng.html)
 - 🔭 I’m currently working on chatbot application using RAG.
 - 💬 Open to exciting project/collaboration in Machine-learning / LLM / Data visualization
 - 📫 How to reach me: [Mail](mailto:jamelbelgacem@hotmail.com) or [LinkedIn](https://www.linkedin.com/in/jamel-belgacem-289606a7/)
