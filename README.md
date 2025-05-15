@@ -22,7 +22,7 @@ Here are some of the technologies I work with:
 
 ## Applications
 
-- ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) **[Image Transformer](https://app-imagetransformer-mvx8bgkvrbxk3iaay924oa.streamlit.app/))**\
+- ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) **[Image Transformer](https://app-imagetransformer-mvx8bgkvrbxk3iaay924oa.streamlit.app/)**\
   This Streamlit application uses OpenCV library to transform an uploaded picture and save it.
 
 - ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) **[PDF chatbot](https://chatbot-with-your-pdf.streamlit.app/)**\
