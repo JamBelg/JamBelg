@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Jamel Belgacem
 
-Welcome to my GitHub profile! I'm a passionate machine learning engineer, constantly exploring new technologies and collaborations for exciting projects.
+Welcome to my GitHub profile! I'm a passionate data & machine learning engineer, constantly exploring new technologies and collaborations for exciting projects.
 
 ## 🚀 About Me
 
