@@ -52,6 +52,7 @@ Here are some of the technologies I work with:
 
 ## 🌐 Connect with Me
 
+- [Personal website](https://www.jamelbelgacem.com/)
 - [LinkedIn](https://www.linkedin.com/in/jamel-belgacem-289606a7/)
 - [Mail](mailto:jamelbelgacem@hotmail.com)
 
