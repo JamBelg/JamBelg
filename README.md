@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate data & machine learning engineer,
 
 - 🌱 I have a bachelor degree in electrical engineering @ [HES-SO](https://www.hes-so.ch/en/homepage)
 - 🌱 Obtained a CAS in adavanced machine learning @ [university of Bern](https://www.unibe.ch/continuing_education_programs/cas_advanced_machine_learning/index_eng.html)
-- 🔭 I’m currently working on LLM agents project.
+- 🔭 I’m currently working on MCP server projects.
 - 💬 Open to exciting project/collaboration in Machine-learning / LLM / Data visualization
 - 📫 How to reach me: [Mail](mailto:jamelbelgacem@hotmail.com) or [LinkedIn](https://www.linkedin.com/in/jamel-belgacem-289606a7/)
 
