@@ -19,7 +19,7 @@ Here are some of the technologies I work with:
 - **Data Visualization**: ![Shiny](https://img.shields.io/badge/-Shiny-276DC3?style=flat&logo=RStudio&logoColor=white), ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white), ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white), ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white), ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white), ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 - **Databases**: ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white), ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white), ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white), ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white), ![Neo4j](https://img.shields.io/badge/-Neo4j-01858B?style=flat&logo=neo4j&logoColor=white)
 - **Version Control**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-- **Cloud**: ![AWS](https://img.shields.io/badge/-AWS-F05032?style=flat&logo=git&logoColor=white)
+- **Cloud**: ![AWS](https://img.shields.io/badge/-AWS-F05032?style=flat&logo=aws&logoColor=white), ![n8n](https://img.shields.io/badge/-n8n-F05032?style=flat&logo=n8n&logoColor=white)
 
 ## Applications
 
