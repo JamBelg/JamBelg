@@ -20,6 +20,7 @@ Here are some of the technologies I work with:
 - **Databases**: ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white), ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white), ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white), ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white), ![Neo4j](https://img.shields.io/badge/-Neo4j-01858B?style=flat&logo=neo4j&logoColor=white)
 - **Version Control**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 - **Cloud**: ![AWS](https://img.shields.io/badge/-AWS-F05032?style=flat&logo=aws&logoColor=white), ![n8n](https://img.shields.io/badge/-n8n-F05032?style=flat&logo=n8n&logoColor=white)
+- **Mobile application**: ![Swift](https://img.shields.io/badge/-Swift-F05032?style=flat&logo=swift&logoColor=white)
 
 ## Applications
 
